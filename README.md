@@ -43,8 +43,8 @@ It is clean for new usage:
 ## Login
 
 ```text
-Username: admin
-Password: kannur134134
+Username: ....
+Password: ....
 ```
 
 Change the password after first successful online login.
